@@ -24,3 +24,8 @@ ul li{
 ul li:hover{
   background: #e91e63;
 }
+
+ul li a{
+  color: #fff;
+  text-decoration: none;
+}
