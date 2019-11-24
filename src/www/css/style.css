@@ -6,7 +6,7 @@ body{
 
 nav{
   width: 100%;
-  background: #000316b;
+  background: #00316b;
 }
 
 ul{
@@ -19,4 +19,8 @@ ul li{
   list-style: none;
   display: inline-block;
   padding: 20px;
+}
+
+ul li:hover{
+  background: #e91e63;
 }
