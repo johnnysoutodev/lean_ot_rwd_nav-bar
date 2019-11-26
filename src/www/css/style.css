@@ -45,7 +45,7 @@ ul li a{
   .toggle{
     display: block;
   }
-  
+
   ul{
     width: 100%;
   }
@@ -53,5 +53,9 @@ ul li a{
   ul li{
     display: block;
     text-align: center;
+  }
+
+  .active{
+    display: block;
   }
 }
