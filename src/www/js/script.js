@@ -1,3 +1,5 @@
 $(document).ready(function(){
-  $('.menu')
+  $('.menu').click(function(){
+    $('ul').toggleClass('active');
+  });
 });
